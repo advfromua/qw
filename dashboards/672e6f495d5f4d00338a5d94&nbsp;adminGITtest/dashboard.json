@@ -1,0 +1,35 @@
+{
+    "dataExploration": false,
+    "datasource": {
+        "fullname": "live:adminGITtest",
+        "id": "live:adminGITtest",
+        "live": true,
+        "title": "adminGITtest"
+    },
+    "desc": "",
+    "filters": "./filters.json",
+    "hierarchies": [
+    ],
+    "layout": "./layout.json",
+    "oid": "672e6f495d5f4d00338a5d94",
+    "settings": {
+        "autoUpdateOnFiltersChange": true
+    },
+    "style": {
+        "palette": {
+            "colors": [
+                "#00cee6",
+                "#9b9bd7",
+                "#6EDA55",
+                "#fc7570",
+                "#fbb755",
+                "#218A8C"
+            ],
+            "name": "Vivid"
+        }
+    },
+    "title": "adminGITtest",
+    "widgets": [
+        "./widgets/672e6f525d5f4d00338a5d96/widget.json"
+    ]
+}

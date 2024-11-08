@@ -1,0 +1,9 @@
+{
+    "createdByUser": true,
+    "oid": "522c1ff4-7156-4274-b31e-bba8b2250868",
+    "provider": "SnowflakeJDBC",
+    "schema": "B2D_PROD_BYNDERLQAAEULQAAFINALLQAA2LQAAPARQ_4AFEDE00_6129_47A3_929A_FCF5AF594084",
+    "uiParams": {
+        "passwordAuth": true
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "connection": "./connection.json",
+    "database": "B2D",
+    "elasticube": "f1a53bed-79d3-4b15-81f9-a1edda2001df",
+    "liveQuerySettings": {
+        "autoRefresh": false,
+        "refreshRate": 30000,
+        "resultLimit": 5000,
+        "timeout": 60000
+    },
+    "oid": "c4048658-49e0-4496-b950-6d9d3e535cff",
+    "schemaName": "B2D_PROD_BYNDERLQAAEULQAAFINALLQAA2LQAAPARQ_4AFEDE00_6129_47A3_929A_FCF5AF594084",
+    "tables": [
+        "./15f44769-aa57-45d0-9cb2-9a152e17a3a3/table.json"
+    ],
+    "type": "live"
+}

@@ -1,0 +1,33 @@
+{
+    "buildDestination": {
+        "destination": "live"
+    },
+    "datasets": [
+        "./c4048658-49e0-4496-b950-6d9d3e535cff/dataset.json"
+    ],
+    "dependencies": {
+        "perspectives": [
+            "./f1a53bed-79d3-4b15-81f9-a1edda2001df/perspective.json"
+        ]
+    },
+    "experiments": {
+    },
+    "fiscal": "system",
+    "hierarchies": [
+    ],
+    "modelStatistics": {
+        "allTablesPerCollection": true,
+        "enableModelStatistics": true,
+        "maxTablesPerCollection": 0,
+        "recollectStatsInterval": 12
+    },
+    "oid": "f1a53bed-79d3-4b15-81f9-a1edda2001df",
+    "relationType": "direct",
+    "relations": "./relations.json",
+    "relationsTables": [
+    ],
+    "schemaId": null,
+    "shouldUpdateScheduleOnManualBuild": null,
+    "title": "adminGITtest",
+    "type": "live"
+}
